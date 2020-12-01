@@ -52,3 +52,9 @@ List of hands-on trainings within DevOps as follows;
 - [Hands-on Kubernetes-02 : Kubernetes Basic Operations](./kubernetes/kubernetes-02-basic-operations)
 
 - [Hands-on Kubernetes-03 : Kubernetes Networking and Service Discovery](./kubernetes/kubernetes-03-networking-service-discovery)
+
+- [Hands-on Kubernetes-04 : Deploying Microservices and Service Level Autoscaling](./kubernetes/kubernetes-04-microservice-deployment-and-autoscaling)
+
+- [Hands-on Kubernetes-05 : Managing Secrets and ConfigMaps](./kubernetes/kubernetes-05-managing-secrets-and-configmaps)
+
+- [Hands-on Kubernetes-06 : Kubernetes Volumes](./kubernetes/kubernetes-06-pods-volumes)
